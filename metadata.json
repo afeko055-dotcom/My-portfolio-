@@ -1,0 +1,6 @@
+{
+  "name": "Feko Michael Digital Studio",
+  "description": "Master full-stack product portfolio, application lab, AI lab, SaaS lab & game studio for Feko Michael.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
